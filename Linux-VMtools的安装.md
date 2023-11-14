@@ -20,7 +20,7 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
    
    ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-16-46-52-image.png)
 
-![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-16-49-40-image.png)
+![](images\2023-11-14-16-49-40-image.png)
 
 6. **回到主页打开主文件夹，打开其他位置，打开计算机，打开opt** 
    
@@ -38,13 +38,13 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
    
    ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-16-58-48-image.png)
 
-![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-03-29-image.png)
+![](images\2023-11-14-17-03-29-image.png)
 
 9. **进入解压好的目录，有个安装包，安装即可，一路回车就安装好了(注意要提前安装gcc，可以通过 gcc -v来查看是否安装)** 
    
    ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-08-06-image.png)
 
-![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-11-47-image.png)
+![](images\2023-11-14-17-11-47-image.png)
 
 - 接下来测试是否可以用
   
@@ -56,7 +56,7 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
   
   ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-18-39-image.png)
 
-![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-20-38-image.png)
+![](images\2023-11-14-17-20-38-image.png)
 
 - 在虚拟机系统里打开主文件夹，点击其他位置，点击计算机
   
@@ -66,8 +66,8 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
   
   ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-23-51-image.png)
 
-![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-24-15-image.png)
+![](images\2023-11-14-17-24-15-image.png)
 
-![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-24-47-image.png)
+![](images\2023-11-14-17-24-47-image.png)
 
 到这里就成功安装好了vmtools
