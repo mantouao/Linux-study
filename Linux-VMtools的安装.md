@@ -4,7 +4,7 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
 
 1. **打开虚拟机点击未列出**
    
-   ![](images\2023-11-14-16-27-24-image.png)
+   ![](https://gitee.com/mantouwowotou/linux-learning-record/blob/master/images/2023-11-14-16-27-14-image.png)
 
 2. **使用root登录**
 
