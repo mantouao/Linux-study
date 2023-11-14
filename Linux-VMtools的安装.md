@@ -12,12 +12,8 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
    
    ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-16-36-25-image.png)
 
-
-
 4. **在左上方虚拟机里点开wmware tools安装，如果是灰色就重启虚拟机，在开机过程点安装**
-   
-   
-   
+
    ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-16-44-09-image.png)
 
 5. **安装完成后，有一个VMware tools,打开它，拷贝.tar文件** 
@@ -44,13 +40,11 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
 
 ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-03-29-image.png)
 
-9.  **进入解压好的目录，有个安装包，安装即可，一路回车就安装好了(注意要提前安装gcc，可以通过 gcc -v来查看是否安装)** 
+9. **进入解压好的目录，有个安装包，安装即可，一路回车就安装好了(注意要提前安装gcc，可以通过 gcc -v来查看是否安装)** 
    
    ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-08-06-image.png)
 
 ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-11-47-image.png)
-
-
 
 - 接下来测试是否可以用
   
@@ -75,7 +69,5 @@ vmtools可以设置共享文件夹，可以开主机（Windows）和 虚拟系�
 ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-24-15-image.png)
 
 ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2023-11-14-17-24-47-image.png)
-
-
 
 到这里就成功安装好了vmtools
